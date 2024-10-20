@@ -88,3 +88,7 @@ img {
   margin: 20px auto;
   width: 200px;
 }
+
+a:hover {
+  color: #e76f51;
+}
